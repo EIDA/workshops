@@ -4,7 +4,7 @@ txt
 # Quick start guide
 
 ## Run using Binder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EIDA/workshops/HEAD?filepath=notebooks%2F)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EIDA/workshops/HEAD?filepath=notebooks)
 
 ## Run on local machine
 1. Create the virtual environment:
