@@ -7,6 +7,7 @@ txt
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EIDA/workshops/HEAD?filepath=notebooks%2F)
 
 ## Run on local machine
+1. Clone the repository and go to its root directory
 1. Create the virtual environment:
     ```
     $ python3 -m venv env
