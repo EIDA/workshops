@@ -8,7 +8,7 @@
             "name": "Python: Current File",
             "type": "python",
             "cwd": "${workspaceFolder}",
-            "python": "${workspaceFolder}/.env/bin/python",
+            "python": "${workspaceFolder}/.env/bin/python3",
             "request": "launch",
             "program": "${workspaceFolder}/main.py",
             "console": "integratedTerminal",
